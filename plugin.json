@@ -1,0 +1,12 @@
+{
+  "ID": "8b7d4c19-3e4a-4f1b-9c2d-7a6e5b4c3d2e",
+  "ActionKeyword": "movoa",
+  "Name": "Movoa AI Video",
+  "Description": "Generate AI video clips with synchronized sound via Movoa (movoa.ai) from Flow Launcher.",
+  "Author": "Movoa",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://movoa.ai/",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "main.py"
+}
